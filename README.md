@@ -8,7 +8,7 @@ Situação de aprendizagem SENAI Norte I - Matéria Banco de dados 2º semestre.
 **Tabela planejamento professores**
 ![Imagem_2 (1)](https://user-images.githubusercontent.com/96263490/159769649-76b25bd1-7655-4b83-9c2a-249984ce1840.png)
 
-**Tabela de procedimentos**
+**Aba Procedimentos**
 ![Imagem_3 (1)](https://user-images.githubusercontent.com/96263490/159769704-071ce246-6faf-4d57-a370-438706ffc465.png)
 
 ✅ Campos preenchidos com dados fictícios.
